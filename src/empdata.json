@@ -1,0 +1,32 @@
+{
+  "EmpData": [
+    {
+      "id": 4,
+      "FirstName": "Mit",
+      "LastName": "Kale",
+      "Emailid": "mithun.kale@tcs.com",
+      "mobileNo": 8806801581
+    },
+    {
+      "FirstName": "Mit",
+      "LastName": "Kale",
+      "Emailid": "mithun.kale@tcs.com",
+      "mobileNo": "8806801581",
+      "id": 6
+    },
+    {
+      "FirstName": "Mit",
+      "LastName": "vdhfv",
+      "Emailid": "dhfv",
+      "mobileNo": "8806801581",
+      "id": 7
+    },
+    {
+      "FirstName": "mno",
+      "LastName": "abc",
+      "Emailid": "mno@tcs.com",
+      "mobileNo": "9876543210",
+      "id": 9
+    }
+  ]
+}

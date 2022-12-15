@@ -1,0 +1,37 @@
+.empdir{
+  
+    margin-top: 5%;
+    margin-bottom: 5%;
+  width: 100%;
+  background-color: black;
+}
+.empdir.p{
+    color: black;
+}
+.addemp{
+    margin-left:10%;
+    margin-right: 2%;
+    color: black;
+    border-color: black;
+}
+.search{
+    margin-left:48%;
+    
+}
+.table{
+    width: 90%;
+    margin-left:5%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+   
+    
+}
+.tablebody{
+    border: 5px solid black;
+}
+
+.update{
+    color: white;
+    border-color: black;
+    background-color: blue;
+}
